@@ -1,0 +1,21 @@
+book_id,book_name,category,price
+1,Python for Beginners,Education,550
+2,Advanced SQL,Education,750
+3,Data Analytics with Excel,Education,650
+4,Power BI Complete Guide,Education,900
+5,The Alchemist,Fiction,400
+6,Harry Potter,Fiction,600
+7,The Great Gatsby,Fiction,450
+8,Atomic Habits,Self Help,700
+9,Rich Dad Poor Dad,Finance,500
+10,The Psychology of Money,Finance,800
+11,Think and Grow Rich,Self Help,450
+12,Ikigai,Self Help,550
+13,Clean Code,Technology,950
+14,Java Programming,Technology,850
+15,Machine Learning Basics,Technology,1100
+16,Database Management,Education,700
+17,Deep Work,Self Help,650
+18,The Intelligent Investor,Finance,1200
+19,1984,Fiction,500
+20,Artificial Intelligence,Technology,1300
